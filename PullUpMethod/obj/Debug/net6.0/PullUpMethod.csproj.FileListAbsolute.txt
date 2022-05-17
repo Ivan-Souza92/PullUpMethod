@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\bin\Debug\net6.0\PullUpMethod.exe
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\bin\Debug\net6.0\PullUpMethod.deps.json
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\bin\Debug\net6.0\PullUpMethod.runtimeconfig.json
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\bin\Debug\net6.0\PullUpMethod.dll
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\bin\Debug\net6.0\PullUpMethod.pdb
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.dll
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\refint\PullUpMethod.dll
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.pdb
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\PullUpMethod.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\PullUpMethod\PullUpMethod\obj\Debug\net6.0\ref\PullUpMethod.dll
